@@ -269,7 +269,7 @@
 		
 			#nav > ul > li.current_page_item > a
 			{
-				background: #d52349;
+				background: rgba(0, 147, 166, 1);
 				color: #fff !important;
 				font-weight: 700;
 			}
