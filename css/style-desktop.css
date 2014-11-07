@@ -202,14 +202,21 @@
 			font-weight: 900;
 			font-size: 2.5em;
 			letter-spacing: -0.035em;
-			margin: 0 0 1.5em 0;
+			margin: 0 0 0.3em 0;
 		}
 
 		#header hgroup h1 
 		{
-			font-size: 400%;
+			font-size: 600%;
 			font-family: 'Squada One';
 			text-shadow: 0 0 2px #000, 4px 4px 0 #ccc;
+		}
+
+		#header hgroup h3 
+		{
+			margin: 0 0 0.8em 0;
+			font-family: 'Exo';
+			text-shadow: 0 0 1px #000;
 		}
 
 /*********************************************************************************/
